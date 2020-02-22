@@ -1,0 +1,19 @@
+body{
+    background: #ecdfc8;
+}
+#container{
+    width: 80%;
+    max-width: 850px;
+    margin: 0 auto;
+    height: auto;
+    justify-content:center;
+    text-align: center;
+    border: solid 5px #df7861;
+    background: #fffdf9;
+}
+ul{
+    text-align: left;
+}
+#format{
+    margin-bottom: 25px;
+}
